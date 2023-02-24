@@ -10,7 +10,7 @@ Thank you again for taking the time to review this application! I will update it
 
 ## URL
 
-https://git.heroku.com/tech-blog-game-app.git
+<a href="https://git.heroku.com/tech-blog-game-app.git" target="_blank">Tech Blog version 1.0 in Heroku</a>
 
 ## Screenshot
 <img src="/assets/Screenshot.png" alt="App in Progress" title="App in Progress">
