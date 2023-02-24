@@ -5,3 +5,24 @@ body {
 div {
     background: red;
 }
+
+h1 {
+    background: aqua;
+}
+
+header {
+    background: yellow;
+}
+
+footer {
+    background: gold;
+}
+
+.button {
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: gray;
+}
